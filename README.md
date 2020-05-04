@@ -7,6 +7,12 @@ We will analyze a subset of Yelp's business, reviews and user data. This dataset
 https://sta9760-laura-spark-datasets.s3.us-east-2.amazonaws.com/yelp-dataset/yelp_academic_dataset_business.json
 s3://sta9760-laura-spark-datasets.s3.us-east-2.amazonaws.com/yelp-dataset/yelp_academic_dataset_business.json
 
+https://sta9760-laura-spark-datasets.s3.us-east-2.amazonaws.com/yelp-dataset/yelp_academic_dataset_user.json
+s3://sta9760-laura-spark-datasets/yelp-dataset/yelp_academic_dataset_user.json
+
+https://sta9760-laura-spark-datasets.s3.us-east-2.amazonaws.com/yelp-dataset/yelp_academic_dataset_review.json
+s3://sta9760-laura-spark-datasets/yelp-dataset/yelp_academic_dataset_review.json
+
 
 ## Cluster Set up:
 ![scrnshot](https://github.com/laurachan2020/pyspark/blob/master/cluster.PNG)
