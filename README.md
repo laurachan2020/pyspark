@@ -7,3 +7,9 @@ My Yelp source file:
 https://sta9760-laura-spark-datasets.s3.us-east-2.amazonaws.com/yelp-dataset/yelp_academic_dataset_business.json
 s3://sta9760-laura-spark-datasets.s3.us-east-2.amazonaws.com/yelp-dataset/yelp_academic_dataset_business.json
 
+
+Cluster Set up:
+
+https://github.com/laurachan2020/pyspark/blob/master/cluster.PNG
+
+https://github.com/laurachan2020/pyspark/blob/master/notebook.PNG
