@@ -9,5 +9,7 @@ s3://sta9760-laura-spark-datasets.s3.us-east-2.amazonaws.com/yelp-dataset/yelp_a
 
 
 ## Cluster Set up:
-![scrnshot](https://raw.githubusercontent.com/laurachan2020/pyspark/blob/master/cluster.PNG)
-![scrnshot](https://raw.githubusercontent.com/laurachan2020/pyspark/blob/master/notebook.PNG)
+![scrnshot](https://github.com/laurachan2020/pyspark/blob/master/cluster.PNG)
+
+
+![scrnshot](https://github.com/laurachan2020/pyspark/blob/master/notebook.PNG)
